@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a62a0509c3016cc47a5471290717c5e5, type: 3}
+  m_Name: ForestData
+  m_EditorClassIdentifier: 
+  wallTile: {fileID: 11400000, guid: 1849ac34671c89b4395ea19c916452e6, type: 2}
+  pathTile: {fileID: 11400000, guid: 217370a71daa3e84a994515d77bd6c6b, type: 2}
+  gateTile: {fileID: 11400000, guid: 566152b60379b9f48aa83c0f4ccb3d39, type: 2}
+  coinPrefab: {fileID: -6777460348470090540, guid: 2dddd06c9d793564b94f034417b75c85, type: 3}
+  powerUpPrefab: {fileID: 3828164731689520244, guid: 57f0fa80efcead14a83109c46ec1d58d, type: 3}
+  enemyPrefabs:
+  - {fileID: -5514615849348590765, guid: 7df0e4d42850e6944b1a958b6b25b268, type: 3}
+  - {fileID: -5514615849348590765, guid: 15f81da962d26b54e8b60750dcc3a30c, type: 3}
+  - {fileID: -5514615849348590765, guid: baa7c3c5379c91e42ba9e79d9f633526, type: 3}

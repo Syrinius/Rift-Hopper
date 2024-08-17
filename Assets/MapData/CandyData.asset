@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a62a0509c3016cc47a5471290717c5e5, type: 3}
+  m_Name: CandyData
+  m_EditorClassIdentifier: 
+  wallTile: {fileID: 11400000, guid: 689427f6bc4d6134abb3a6916efeb08f, type: 2}
+  pathTile: {fileID: 11400000, guid: 6871c9a38cc395447befb681c856ad17, type: 2}
+  gateTile: {fileID: 11400000, guid: b90d44f1450688146bb96c2366070942, type: 2}
+  coinPrefab: {fileID: -6777460348470090540, guid: 2dddd06c9d793564b94f034417b75c85, type: 3}
+  powerUpPrefab: {fileID: 3828164731689520244, guid: 5c9a0e5ef3d06d54f96b31b7016432e2, type: 3}
+  enemyPrefabs:
+  - {fileID: -5514615849348590765, guid: 2bef5f1ddaa72ed4f9eb34317d3b039d, type: 3}
+  - {fileID: -5514615849348590765, guid: 043331b8f72fb6f419cb59eed0c5865f, type: 3}
+  - {fileID: -5514615849348590765, guid: 3b375ea8ff63a7c4cbafa8be00bf5d0b, type: 3}
